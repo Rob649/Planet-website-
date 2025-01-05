@@ -8,7 +8,7 @@
     <meta name="author" content="Your Name">
     <title>PlanNet Marketing | Success Starts Here</title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file -->
-</head>
+</head>u
 <body>
     <!-- HEADER -->
     <header>
